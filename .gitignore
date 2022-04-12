@@ -1,3 +1,7 @@
+secrets.json
+.openzeppelin
+build
+
 # Logs
 logs
 *.log
