@@ -1,6 +1,7 @@
 secrets.json
 .openzeppelin
 build
+package-lock.json.json
 
 # Logs
 logs
