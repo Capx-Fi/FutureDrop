@@ -3,8 +3,6 @@ FutureDrop
 
 An utility smart contract to Airdrop ERC20 / BEP20 Tokens to specified address for the specified amount.
 
-<br>
-
 Architecture
 =====
 ![Architecture](./images/Arcitecture.png)
